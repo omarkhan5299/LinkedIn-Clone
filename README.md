@@ -6,7 +6,7 @@ A LinkedIn Clone developed using React, Redux and Firebase
 The LinkedIn Clone web application is developed using React and functions similar to Linkedin. It is built using Redux Toolkit and Firebase for the backend.
 
 ## Preview 
-<img src="http://g.recordit.co/26jFao2ggw.gif" width=250><br>
+<img src="http://g.recordit.co/26jFao2ggw.gif" ><br>
 
 ## Features
 - Users can register if they don't already have an account
