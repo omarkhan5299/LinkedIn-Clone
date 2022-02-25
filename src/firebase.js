@@ -5,7 +5,7 @@ const firebaseConfig = {
   authDomain: "linkedin-clone-8dee7.firebaseapp.com",
   projectId: "linkedin-clone-8dee7",
   storageBucket: "linkedin-clone-8dee7.appspot.com",
-  messagingSenderId: "938135562732",
+
   
 }; 
 
